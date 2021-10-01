@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there 👋
+## My name is Raka Primardika 😁
 
 <!--
 **rakaprimardika/rakaprimardika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+From Indonesia 🇲🇨, studying Computer Science 💻, passionate in Music 🎹
+
+### Music Stuff
+- Performances (will be a link)
+
+### Computer Stuff
+- Data Structures
+- Software Design
