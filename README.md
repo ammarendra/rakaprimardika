@@ -1,5 +1,4 @@
-## Hi there 👋
-## My name is Raka Primardika 😁
+## 👋 Hi, my name is Raka Primardika 😁
 
 <!--
 **rakaprimardika/rakaprimardika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-From Indonesia 🇲🇨, studying Computer Science 💻, passionate in Music 🎹
+I'm a Computer Science student at University of Illinois Chicago 🎓
 
-### Music Stuff
-- Performances (will be a link)
+I've been interested in Computer Science since high school.
 
-### Computer Stuff
-- Data Structures
-- Software Design
+### ✍️ What I'm learning right now:
+- Communications
+- Probability Statistics
+- Java
+
+### 👀 Interesting non-CS Skills:
+- Piano
+- Java (the actual language)
